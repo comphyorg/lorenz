@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser LORENZ.ipynb
+web: voila --port=$PORT --no-browser lorenx.ipynb
