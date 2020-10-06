@@ -1,5 +1,5 @@
 numpy
-ipywidgets
-ipyvolume
+ipywidgets==7.5.1
+ipyvolume==0.6.0a6
 voila==0.2.2
 IPython
